@@ -5,6 +5,12 @@ FoundersTest is an App to create reminders.
 ## Installation
 
 ```bash
+git clone https://github.com/kelvinsinsua/founders-app.git
+```
+```bash
+cd founders-app
+```
+```bash
 npm install
 ```
 ```bash
