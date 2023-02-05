@@ -65,7 +65,7 @@ const Register = ({navigation}) => {
                     <Text style={styles.textLogin}>Register</Text>
                     <View style={styles.inputsContainer}>
                         <TextInput
-                            label="Username"
+                            label="Email"
                             variant="outlined"
                             onChangeText={(text) => setEmail(text)}
                             value={email}
